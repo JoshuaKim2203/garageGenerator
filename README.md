@@ -1,2 +1,4 @@
 # garageGenerator
-Generated garages in Nitro Type.
+Generate garages in Nitro Type.
+Nitro Type: https://www.nitrotype.com
+Libraries used: Requests, tkinter
