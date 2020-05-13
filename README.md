@@ -1,14 +1,17 @@
-# garageGenerator
+# garageGenerater
 Generate garages in Nitro Type.
 
-Nitro Type: https://www.nitrotype.com
-
-Libraries used: Requests, tkinter
-
+Nitro Type is a worldwide real-time typing competition: https://www.nitrotype.com
+_____________________
+I programmed this fully in Python using the Requests and tkinter libraries.
+_____________________
+Example
+========================
 Example: https://www.nitrotype.com/racer/nt_garage_test
 
-
-Video: https://www.youtube.com/watch?v=J78Btzo3g38
+Installation
+====================
+Watch the Video: https://www.youtube.com/watch?v=J78Btzo3g38 . If you can't watch the video, see instructions below.
 
 Instructions for download (If you cannot watch the video):
 
